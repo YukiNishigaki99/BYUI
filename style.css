@@ -2,11 +2,11 @@
     /* Reference URL:
         https://i.pinimg.com/originals/0c/82/4d/0c824ddb42102dc880371c28360c58cd.jpg
      */
-    color: #F4c5d7;
-    color: #e981a4;
-    color: #f9adb7;
-    color: #fec9c3;
-    color: #faf2dd;
+    color: #F7F9F9;
+    color: #F7F9F9;
+    color: #78D5D7;
+    color: #63D2FF;
+    color: #2081C3;
 }
 
 body {
@@ -17,12 +17,12 @@ body {
 header {
     padding: 10px;
     margin-top: 50px;
-    border-bottom: 1px darkgray solid;
+    border-bottom: 1px #F7F9F9 solid;
 }
 
 h1 {
     text-align: center;
-    color: #e981a4;
+    color: #2081C3;
 }
 
 ul {
@@ -35,17 +35,17 @@ ul {
     list-style: none;
     padding: 1em;
     margin: 1em;
-    background-color: #e981a4;
+    background-color: #2081C3;
     border-radius: 10px;
 }
 
 a {
     text-decoration: none;
-    color: #faf2dd;
+    color: #78D5D7;
 }
 
 a::after {
-    color: #f9adb7;
+    color: #63D2FF;
 }
 
 
